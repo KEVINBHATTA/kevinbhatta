@@ -21,15 +21,7 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
 
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-Not%20Configured%20Yet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
-
-> Once set up, this will show your live playing track in real time! See **Setup Guide** below.
-
-</div>
 
 ---
 
