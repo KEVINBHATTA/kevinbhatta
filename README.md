@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Kevin%20Bhatta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+the+future%2C+one+commit+at+a+time+🚀;MERN+Stack+%7C+TypeScript+%7C+Open+Source;Helping+businesses+reach+their+full+potential+💡" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=60&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+TypeScript+%7C+Open+Source;Helping+businesses+reach+their+full+potential+%F0%9F%92%A1;Full-Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
 <br/>
 
@@ -77,13 +75,13 @@ const kevin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KEVINBHATTA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=4ECDC4&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KEVINBHATTA&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KEVINBHATTA&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFC857&currStreakLabel=4ECDC4&border_radius=10" width="48%" />
+<img src="https://streak-stats.demolab.com?user=KEVINBHATTA&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINBHATTA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&border_radius=10&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINBHATTA&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
 
 </div>
 
@@ -99,23 +97,17 @@ const kevin = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Contributions Getting Eaten by a Snake
 
 <div align="center">
-
-<!-- 
-  SETUP INSTRUCTIONS for the Snake Game:
-  1. Go to your GitHub repository: KEVINBHATTA/KEVINBHATTA
-  2. Create a folder: .github/workflows/
-  3. Create a file: snake.yml with the workflow below
-  4. Once the action runs, it generates the snake GIF automatically!
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KEVINBHATTA/KEVINBHATTA/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KEVINBHATTA/KEVINBHATTA/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/KEVINBHATTA/KEVINBHATTA/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/KEVINBHATTA/KEVINBHATTA/output/github-contribution-grid-snake.svg" />
 </picture>
+
+> 💡 **To activate the snake:** Add `snake.yml` to `.github/workflows/` in this repo, then go to **Actions → Generate Snake Animation → Run workflow**
 
 </div>
 
@@ -125,8 +117,11 @@ const kevin = {
 
 <div align="center">
 
-[![Smart-Byapar](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=Smart-khairahani&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&border_radius=10)](https://github.com/KEVINBHATTA/Smart-khairahani)
-[![Bhatta Family Financial Tracker](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=Bhatta_family_financial_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&border_radius=10)](https://github.com/KEVINBHATTA/Bhatta_family_financial_tracker)
+[![Smart-Byapar](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=Smart-Byapar&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/Smart-Byapar)
+[![Financial Tracker](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=Bhatta_family_financial_tracker&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/Bhatta_family_financial_tracker)
+
+[![FitMart](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=FitMart&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/FitMart)
+[![Payment Gateway](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=payment_gateway&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/payment_gateway)
 
 </div>
 
