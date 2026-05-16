@@ -1,17 +1,33 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Kevin%20Bhatta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Kevin%20Bhatta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=60&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+TypeScript+%7C+Open+Source;Helping+businesses+reach+their+full+potential+%F0%9F%92%A1;Full-Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&height=60&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+JavaScript+%7C+Open+Source;Helping+businesses+reach+their+full+potential+%F0%9F%92%A1;Full-Stack+Developer+%26+Digital+Marketer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Badges -->
+<!-- Visitor Counter -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KEVINBHATTA.KEVINBHATTA)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KEVINBHATTA&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/KEVINBHATTA?style=for-the-badge&color=4ECDC4&labelColor=1a1a2e)](https://github.com/KEVINBHATTA)
 [![GitHub stars](https://img.shields.io/github/stars/KEVINBHATTA?style=for-the-badge&color=FFC857&labelColor=1a1a2e)](https://github.com/KEVINBHATTA)
+
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-Not%20Configured%20Yet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+
+> Once set up, this will show your live playing track in real time! See **Setup Guide** below.
 
 </div>
 
@@ -24,11 +40,11 @@ const kevin = {
   name: "Kevin Bhatta",
   pronouns: "he/him",
   location: "Nepal 🇳🇵",
-  role: "MERN Stack Developer",
+  roles: ["MERN Stack Developer", "Digital Marketer", "Content Creator"],
   website: "https://kevinbhatta.com.np",
   
   currentlyBuilding: ["Smart-Byapar", "payment_gateway", "FitMart"],
-  currentlyLearning: ["TypeScript", "System Design", "DevOps"],
+  currentlyLearning: ["System Design", "DevOps", "Advanced JavaScript"],
   
   goals: [
     "Help businesses grow through smart digital solutions",
@@ -36,7 +52,7 @@ const kevin = {
     "Contribute to the open-source community"
   ],
 
-  funFact: "I turn chai ☕ into clean code!"
+  funFact: "I turn chai into clean code!"
 };
 ```
 
@@ -49,7 +65,6 @@ const kevin = {
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,6 +74,12 @@ const kevin = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📣 Digital Marketing
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,17 +92,25 @@ const kevin = {
 
 ---
 
+## ⏱️ WakaTime Coding Activity
+
+<!--START_SECTION:waka-->
+> ⚙️ WakaTime not configured yet. See **Setup Guide** below to enable live coding stats.
+<!--END_SECTION:waka-->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KEVINBHATTA&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=KEVINBHATTA&cc=0D1117&tc=FF6B6B&ic=FFC857&bc=0D1117" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=KEVINBHATTA&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINBHATTA&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KEVINBHATTA&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" />
 
 </div>
 
@@ -107,7 +136,15 @@ const kevin = {
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/KEVINBHATTA/KEVINBHATTA/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 💡 **To activate the snake:** Add `snake.yml` to `.github/workflows/` in this repo, then go to **Actions → Generate Snake Animation → Run workflow**
+</div>
+
+---
+
+## 🌐 Contribution Activity Graph
+
+<div align="center">
+
+[![Kevin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KEVINBHATTA&bg_color=141321&color=FFC857&line=FF6B6B&point=4ECDC4&area=true&area_color=FF6B6B&hide_border=true&radius=8&custom_title=Kevin+Bhatta+%7C+Contribution+Activity)](https://github.com/KEVINBHATTA)
 
 </div>
 
@@ -117,21 +154,23 @@ const kevin = {
 
 <div align="center">
 
-[![Smart-Byapar](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=Smart-Byapar&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/Smart-Byapar)
-[![Financial Tracker](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=Bhatta_family_financial_tracker&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/Bhatta_family_financial_tracker)
+| 🏪 Smart-Byapar | 📊 Family Financial Tracker |
+|---|---|
+| A modern Nepali digital marketing agency platform focused on helping businesses grow through smart, data-driven strategies. Delivers SEO, SMM & result-oriented marketing. | A fund tracker app to manage and monitor family finances. |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [View Project](https://github.com/KEVINBHATTA/Smart-Byapar) | [View Project](https://github.com/KEVINBHATTA/Bhatta_family_financial_tracker) |
 
-[![FitMart](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=FitMart&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/FitMart)
-[![Payment Gateway](https://github-readme-stats.vercel.app/api/pin/?username=KEVINBHATTA&repo=payment_gateway&theme=radical&hide_border=true)](https://github.com/KEVINBHATTA/payment_gateway)
+| 🏋️ FitMart | 💳 Payment Gateway |
+|---|---|
+| A fitness e-commerce platform for buying gym equipment and supplements. Built with JavaScript for a seamless shopping experience. | A secure payment processing system integrating multiple payment methods for Nepali businesses. |
+| ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node-43853D?style=flat-square&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| [View Project](https://github.com/KEVINBHATTA/FitMart) | [View Project](https://github.com/KEVINBHATTA/payment_gateway) |
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KEVINBHATTA&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFC857&area=true&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| 🏛️ Smart-Khairahani | |
+|---|---|
+| An online complaint portal for government services — built for a Hackathon. Citizens can file and track complaints digitally. | |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | |
+| [View Project](https://github.com/KEVINBHATTA/Smart-khairahani) | |
 
 </div>
 
@@ -155,6 +194,13 @@ const kevin = {
 
 ### 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+
+<div align="center">
 
 <br/>
 
