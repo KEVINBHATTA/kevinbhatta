@@ -87,7 +87,13 @@ const kevin = {
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-> ⚙️ WakaTime not configured yet. See **Setup Guide** below to enable live coding stats.
+
+```txt
+From: 08 May 2026 - To: 15 May 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
