@@ -89,11 +89,11 @@ const kevin = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-JavaScript   6 hrs 58 mins         ███████████████████████▓░   94.21 %
-CSS          24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript   8 hrs 25 mins         ██████████████████████░░░   88.38 %
+CSS          1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
